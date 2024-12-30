@@ -1,1 +1,1 @@
-Repository contains scripts used for the CB03 V1/V2 comparison, in-lab wet-dry testing, and field wet-dry testing. 
+Repository contains scripts used for the CB03 V1/V2 comparison, in-lab wet-dry testing, and field wet-dry testing. Also contains python version of the drift correction script pulled from the comparison, as well as the python version of Tony's Beaufort comparison script used to create the drift correction and CB03 scripts. 
